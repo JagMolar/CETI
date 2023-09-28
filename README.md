@@ -31,7 +31,10 @@ Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidad
 <br />
 
 [Materiales](./Materiales/).
-[Glosario Ciberseguridad](./Materiales/Glosario%20Ciberseguridad.pdf).
+
+<br />
+
+:zap: [Glosario Ciberseguridad](./Materiales/Glosario%20Ciberseguridad.pdf).
 <br />
 <br />
 
@@ -45,6 +48,9 @@ Si es de utilidad, espero que añadais una :star: a este repo!.
 ### Descargo de Responsabilidad
 Las técnicas, procesos, procedimientos o productos que aparezcan en este repositorio están destinados a 
 la formación.
+
+<br />
+
 Cada usuario debe conocer los límites y leyes (y obedecerlas), por lo que si se comenten acciones ilícitas 
 serán sólo y de manera exclusiva, bajo su responsabilidad.
 <br />
