@@ -29,8 +29,24 @@ La estructura del temario se divide en:
 Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidades que puedan enriquecerlo
  y que iré subiendo.
 <br />
+
+[Materiales](./Materiales/).
+[Glosario Ciberseguridad](./Materiales/Glosario%20Ciberseguridad.pdf).
+<br />
+<br />
+
+---
 Si es de utilidad, espero que añadais una :star: a este repo!.
 
+<br />
+
+---
+
+### Descargo de Responsabilidad
+Las técnicas, procesos, procedimientos o productos que aparezcan en este repositorio están destinados a 
+la formación.
+Cada usuario debe conocer los límites y leyes (y obedecerlas), por lo que si se comenten acciones ilícitas 
+serán sólo y de manera exclusiva, bajo su responsabilidad.
 <br />
 
 [![Linkedin: JagMolar](https://img.shields.io/badge/LinkedIn-juanantoniogarciamuelas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juanantoniogarciamuelas)](https://www.linkedin.com/in/juanantoniogarciamuelas)
