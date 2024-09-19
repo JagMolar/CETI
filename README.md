@@ -40,85 +40,85 @@ A continuación, os dejo algunos de los materiales que he ido recopilando para u
 :zap: [Glosario Ciberseguridad](./Materiales/Glosario%20Ciberseguridad.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/01%20-%20Uso%20de%20Metasploit.pdf).
+:zap: [Uso de Metasploit](./Materiales/01%20-%20Uso%20de%20Metasploit.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Bash%20Linux.pdf).
+:zap: [Bash Linux](./Materiales/Bash%20Linux.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Burp%20Suite%20for%20pentester%20Turbo%20Intruder.pdf).
+:zap: [Burp Suite for pentester Turbo Intruder](./Materiales/Burp%20Suite%20for%20pentester%20Turbo%20Intruder.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Burpsuite%20for%20Pentester-Logger.pdf).
+:zap: [Burpsuite for Pentester-Logger](./Materiales/Burpsuite%20for%20Pentester-Logger.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Comandos%20Unix-linux-guia%20de%20referencia.jpg).
+:zap: [Comandos Unix-linux-guia de referencia](./Materiales/Comandos%20Unix-linux-guia%20de%20referencia.jpg).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Electronic%20Crime%20%20Scene%20Investigation.pdf).
+:zap: [Electronic Crime  Scene Investigation](./Materiales/Electronic%20Crime%20%20Scene%20Investigation.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Git-cheatsheet.jpg).
+:zap: [Git-cheatsheet](./Materiales/Git-cheatsheet.jpg).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/HOJA%20DE%20TRUCOS.pdf).
+:zap: [HOJA DE TRUCOS](./Materiales/HOJA%20DE%20TRUCOS.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/IOS-APP-PENETRATION-TESTING.pdf).
+:zap: [IOS-APP-PENETRATION-TESTING](./Materiales/IOS-APP-PENETRATION-TESTING.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/JENKINS%20PENTESTING.pdf).
+:zap: [JENKINS PENTESTING](./Materiales/JENKINS%20PENTESTING.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/lab1_introduccion_volatility.pdf).
+:zap: [lab1_introduccion_volatility](./Materiales/lab1_introduccion_volatility.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Linux%20Kernel%20Crash%20Book.pdf).
+:zap: [Linux Kernel Crash Book](./Materiales/Linux%20Kernel%20Crash%20Book.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Linux%20Notes%20dor%20Professionals.pdf).
+:zap: [Linux Notes dor Professionals](./Materiales/Linux%20Notes%20dor%20Professionals.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/linux-file-permissions.jpg).
+:zap: [linux-file-permissions](./Materiales/linux-file-permissions.jpg).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Manual%20de%20Criptografía.pdf).
+:zap: [Manual de Criptografía](./Materiales/Manual%20de%20Criptografía.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/MongoDB%20Notes%20for%20Professionals.pdf).
+:zap: [MongoDB Notes for Professionals](./Materiales/MongoDB%20Notes%20for%20Professionals.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/MySql-pentration-testing.pdf).
+:zap: [MySql-pentration-testing](./Materiales/MySql-pentration-testing.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Neo4j_CheatSheet_v3.pdf).
+:zap: [Neo4j_CheatSheet_v3](./Materiales/Neo4j_CheatSheet_v3.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/NISTvsNIS2.jpg).
+:zap: [NISTvsNIS2](./Materiales/NISTvsNIS2.jpg).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Programación%20Shell.pdf).
+:zap: [Programación Shell](./Materiales/Programación%20Shell.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/SSH-PENETRATION-TESTING.pdf).
+:zap: [SSH-PENETRATION-TESTING](./Materiales/SSH-PENETRATION-TESTING.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Volatility_CheatSheet_v2.4.pdf).
+:zap: [Volatility_CheatSheet_v2.4](./Materiales/Volatility_CheatSheet_v2.4.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/VULNERABILITY-SCAN-NMAP-PENTESTER.pdf).
+:zap: [VULNERABILITY-SCAN-NMAP-PENTESTER](./Materiales/VULNERABILITY-SCAN-NMAP-PENTESTER.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/WINDOWS-PRILEGE-ESCALATION.pdf).
+:zap: [WINDOWS-PRILEGE-ESCALATION](./Materiales/WINDOWS-PRILEGE-ESCALATION.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/Wireless-penetration-testing-AIRCRACK-NG.pdf).
+:zap: [Wireless-penetration-testing-AIRCRACK-NG](./Materiales/Wireless-penetration-testing-AIRCRACK-NG.pdf).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/wireshark-cheatsheet.jpg).
+:zap: [wireshark-cheatsheet](./Materiales/wireshark-cheatsheet.jpg).
 <br />
 
-:zap: [Glosario Ciberseguridad](./Materiales/WordLists%20For%20Pentester.pdf).
+:zap: [WordLists For Pentester](./Materiales/WordLists%20For%20Pentester.pdf).
 <br />
 <br />
 
