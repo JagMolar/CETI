@@ -1,6 +1,6 @@
 # CETI
 ## Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información
-![Ciberseguridad en Entornos TI](/security-web.jpg "Ciberseguridad en Entornos TI") 
+![Ciberseguridad en Entornos TI](./img/security-web.jpg "Ciberseguridad en Entornos TI") 
 ---
 <p>Al igual que con la especialización en <a href="https://github.com/JagMolar/IABD" title="IABD" target="_blank" rel="noopener noreferrer" >Inteligencia Artificial y Big Data</a>, he creado este repositorio 
 con el fin de tener a mano toda la información recibida para poder refrescar conocimientos, 
