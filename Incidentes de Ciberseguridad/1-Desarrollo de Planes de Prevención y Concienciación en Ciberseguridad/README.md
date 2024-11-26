@@ -4,4 +4,4 @@
 
 ![Incidentes de Ciberseguridad](./Portada-IC01.png "Desarrollo de Planes de Prevención y Concienciación en Ciberseguridad") 
 
-<h3><span style="color: green; background: #62f395;">Calificación: 9.85</span></h3>
+✅<h3>Calificación: </h3><span style="color: green; background: #62f395;"> 9.85</span>
