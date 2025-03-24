@@ -24,6 +24,37 @@ La estructura del temario se divide en:
 4. [Normativa de Ciberseguridad](./Normativa%20de%20Ciberseguridad/).
 5. [Bastionado de redes y sistemas](./Bastionado%20de%20redes%20y%20sistemas/).
 6. [Hacking ético](./Hacking%20ético/).
+<br />
+
+#### Prepara tus exámenes :dizzy:
+
+Accede a diversos modelos de examen que pueden ayudarte a preparar las pruebas presenciales.
+
+<br />
+
+:paperclip: [Prepara tu examen de Puesta en Producción Segura](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20PPS.pdf).
+
+<br />
+
+:paperclip: [Prepara tu examen de Análisis Forense Informático](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20AFI.pdf).
+
+<br />
+
+:paperclip: [Prepara tu examen de Incidentes de Ciberseguridad](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20IDC.pdf).
+
+<br />
+
+:paperclip: [Prepara tu examen de Normativa de Ciberseguridad](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20NDC.pdf).
+
+<br />
+
+:paperclip: [Prepara tu examen de Bastionado de Redes y Sistemas](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20BRS.pdf).
+
+<br />
+
+:paperclip: [Prepara tu examen de Hacking Ético](./Materiales/propuestas-examen/Prepara%20tu%20examen%20de%20HE.pdf).
+
+<br />
 
 ### Extras
 Seguramente vayan saliendo  aportaciones, enlaces de interés u otras curiosidades que puedan enriquecerlo
