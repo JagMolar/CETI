@@ -154,6 +154,9 @@ A continuación, os dejo algunos de los materiales que he ido recopilando para u
 <br />
 
 ---
+<p>Estoy creando una lista con algunos videos de apoyo en <strong style="background: red; color: white; padding: 0 8px;">YouTube</strong>, para reforzar aspectos de los temarios que han podido ser confusos de abordar. No dudéis en pasaros (y pedir algunos nuevos, llegado el caso 😊).</p>
+<p>Accede pinchando en esta imagen 👉🏼 <a href="https://www.youtube.com/playlist?list=PLZ8z_hC3p7VmS3hGOQQ62Aw7eJttmZEIk" target="blank"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTB2cWx1amc3OXYzdnd3dnRsMTNrNmpqYjlmNHh1bHVxMDRsMGcxaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bTF4iiCmxK5qkH6rKF/giphy.gif" ></a>.</p>
 Si es de utilidad, espero que añadais una :star: a este repo!.
 
 <br />
